@@ -22,6 +22,6 @@
 
 ## ✉️ Contacts:
 - email: rusanov.egor@bk.ru
-- telegram: @russsssanov
+- telegram: [@russsssanov](https://t.me/russsssanov)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
